@@ -1,0 +1,14 @@
+sr_flipflop.v
+      |
+      v
+Testbench
+      |
+      v
+Icarus Verilog
+      |
+      +------> Console output
+      |
+      +------> sr_flipflop.vcd
+                    |
+                    v
+                 GTKWave
